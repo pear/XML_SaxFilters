@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<error_log>
+  <error>
+    <level>E_USER_NOTICE</level>
+    <file>/home/jblogs/www/submitform.php</file>
+    <message>/home/jblogs/www/submitform.php</message>
+  </error>
+  <error>
+    <level>E_USER_WARNING</level>
+    <file>/home/jblogs/lib/db/db.inc.php</file>
+    <message>/home/jblogs/lib/db/db.inc.php</message>
+  </error>
+  <error>
+    <level>E_ERROR</level>
+    <file>/home/jblogs/www/upload.php on line 67</file>
+    <message>/home/jblogs/www/upload.php on line 67</message>
+  </error>
+  <error>
+    <level>E_ERROR</level>
+    <file>/home/jblogs/www/upload.php on line 67</file>
+    <message>/home/jblogs/www/upload.php on line 67</message>
+  </error>
+  <error>
+    <level>E_ERROR</level>
+    <file>/home/jblogs/www/upload.php on line 67</file>
+    <message>/home/jblogs/www/upload.php on line 67</message>
+  </error>
+  <error>
+    <level>E_ERROR</level>
+    <file>/home/jblogs/www/upload.php on line 67</file>
+    <message>/home/jblogs/www/upload.php on line 67</message>
+  </error>
+  <error>
+    <level>E_USER_WARNING</level>
+    <file>/home/jblogs/lib/db/db.inc.php</file>
+    <message>/home/jblogs/lib/db/db.inc.php</message>
+  </error>
+  <error>
+    <level>E_USER_WARNING</level>
+    <file>/home/jblogs/lib/db/db.inc.php</file>
+    <message>/home/jblogs/lib/db/db.inc.php</message>
+  </error>
+  <error>
+    <level>E_USER_NOTICE</level>
+    <file>/home/jblogs/www/submitform.php</file>
+    <message>/home/jblogs/www/submitform.php</message>
+  </error>
+  <error>
+    <level>E_USER_NOTICE</level>
+    <file>/home/jblogs/www/submitform.php</file>
+    <message>/home/jblogs/www/submitform.php</message>
+  </error>
+  <error>
+    <level>E_USER_WARNING</level>
+    <file>/home/jblogs/lib/db/db.inc.php</file>
+    <message>/home/jblogs/lib/db/db.inc.php</message>
+  </error>
+  <error>
+    <level>E_ERROR</level>
+    <file>/home/jblogs/www/upload.php on line 67</file>
+    <message>/home/jblogs/www/upload.php on line 67</message>
+  </error>
+  <error>
+    <level>E_ERROR</level>
+    <file>/home/jblogs/www/upload.php on line 67</file>
+    <message>/home/jblogs/www/upload.php on line 67</message>
+  </error>
+  <error>
+    <level>E_ERROR</level>
+    <file>/home/jblogs/www/upload.php on line 67</file>
+    <message>/home/jblogs/www/upload.php on line 67</message>
+  </error>
+  <error>
+    <level>E_USER_NOTICE</level>
+    <file>/home/jblogs/www/submitform.php</file>
+    <message>/home/jblogs/www/submitform.php</message>
+  </error>
+  <error>
+    <level>E_USER_WARNING</level>
+    <file>/home/jblogs/lib/db/db.inc.php</file>
+    <message>/home/jblogs/lib/db/db.inc.php</message>
+  </error>
+  <error>
+    <level>E_USER_NOTICE</level>
+    <file>/home/jblogs/www/submitform.php</file>
+    <message>/home/jblogs/www/submitform.php</message>
+  </error>
+  <error>
+    <level>E_USER_WARNING</level>
+    <file>/home/jblogs/lib/db/db.inc.php</file>
+    <message>/home/jblogs/lib/db/db.inc.php</message>
+  </error>
+  <error>
+    <level>E_USER_NOTICE</level>
+    <file>/home/jblogs/www/submitform.php</file>
+    <message>/home/jblogs/www/submitform.php</message>
+  </error>
+  <error>
+    <level>E_USER_WARNING</level>
+    <file>/home/jblogs/lib/db/db.inc.php</file>
+    <message>/home/jblogs/lib/db/db.inc.php</message>
+  </error>
+</error_log>
