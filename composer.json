@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "email": "hfuecks@phppatterns.com",
+            "name": "Harry Fuecks",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "XML_SaxFilters": "./"
+        }
+    },
+    "description": "More info available on: http://pear.php.net/package/XML_SaxFilters",
+    "include-path": [
+        "./"
+    ],
+    "license": "PHP",
+    "name": "pear/xml_saxfilters",
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=XML_SaxFilters",
+        "source": "https://github.com/pear/XML_SaxFilters"
+    },
+    "type": "library",
+    "require": {
+        "pear/pear_exception": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
